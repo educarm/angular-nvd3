@@ -27,7 +27,7 @@
         "url": "https://github.com/krispo/angular-nvd3.git"
     },
     "dependencies": {
-        "angular": "~1.2",
+        "angular": "~1.x",
         "d3": "~3.4",
         "nvd3": "~v1.1.15-beta"
     },
